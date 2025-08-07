@@ -1,22 +1,23 @@
 # 📊 Power BI – Superstore Dashboard
 
-An interactive dashboard built in Power BI using Superstore sales data.
+An interactive dashboard created in Power BI showing KPIs like:
 
-## 📁 Files Included
-- `Superstore_Dashboard.pdf` – Visual preview of the dashboard
-- `superstore_sales.csv` – Sample sales data used
-- `README.md` – This description
-
-## 📈 Dashboard Features
-- ✅ KPIs: Total Sales, Profit, Quantity
-- 📍 Sales by Region (Bar Chart)
-- 🧩 Category Slicer, Region Slicer, Date Slicer
-- 📊 Pie Chart by Category
-- 📅 Sales Trend over Time (Line Chart)
+- ✅ Total Sales, Profit, Quantity
+- 📈 Sales Over Time
+- 📍 Sales by Region
+- 🧩 Category, Region, Date Slicers
 
 ## 🛠 Tools Used
-- Microsoft Power BI
-- GitHub
+- Power BI Desktop
+- Superstore Dataset (CSV)
 
-## ✍️ Author
+## 📁 Files
+- `Superstore_Dashboard.pbix` – Power BI file
+- `README.md` – This guide
+
+## 📅 Date Created
+August 7, 2025
+
+## 👤 Author
+
 rohinitulasi123
