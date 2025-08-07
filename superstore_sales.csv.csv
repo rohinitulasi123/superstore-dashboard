@@ -1,0 +1,5 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Region,Category,Sub-Category,Product Name,Quantity,Sales,Profit
+CA-2025-1001,01-01-2025,03-01-2025,Rohit Sharma,Consumer,West,Furniture,Chairs,Executive Chair,2,4000,600
+CA-2025-1002,05-01-2025,08-01-2025,Anjali Verma,Corporate,East,Office Supplies,Paper,A4 Printing Paper,5,500,100
+CA-2025-1003,07-01-2025,09-01-2025,Rahul Mehra,Home Office,South,Technology,Phones,Smartphone X,1,15000,3000
+CA-2025-1004,09-01-2025,12-01-2025,Meena Kumari,Consumer,Central,Furniture,Tables,Dining Table,1,8000,1200
